@@ -77,6 +77,16 @@ Las primeras 48 horas importan más que las dos semanas anteriores.
    que venda. **Necesitas un cliente real antes que uno perfecto.**
 4. En cuanto tengas tres clientes, pídeles la reseña. La app se la pedirá sola tras
    tres facturas, pero un mensaje tuyo personal convierte mucho más.
+5. Ahora sí puedes escribir a tiendas individuales en `myshopify.com` (búsqueda
+   tipo `site:myshopify.com "España"`), no solo a agencias y gestorías. Antes de
+   la aprobación no: escribir en frío a comerciantes sueltos, sacados de un
+   resultado de Google, es un riesgo de LSSI y de política anti-spam de Shopify
+   mucho mayor que escribir a una agencia con formulario de "Contacto para
+   proveedores". Con la app aprobada, además, puedes invitarles a instalarla de
+   verdad en vez de prometer algo que aún no puedes entregar. Aun así, sigue el
+   mismo criterio de siempre: solo tiendas con un canal de contacto que invite
+   explícitamente a propuestas de proveedores, no un genérico de atención al
+   cliente, y en tandas pequeñas para no parecer scraping masivo.
 
 **No lances anuncios hasta tener cinco reseñas.** Sin prueba social, cada clic que
 pagues aterriza en una ficha que no convence.
