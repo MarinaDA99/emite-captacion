@@ -1,6 +1,6 @@
 nombre;tipo;web;ciudad;estado;preparado;contactado;respuesta;notas
 Fantasticfy;agencia;https://www.fantasticfy.com/;Barcelona;contactado;2026-08-21;2026-08-21;;formulario https://www.fantasticfy.com/contacto (correo publico hi@fantasticfy.com)
-Numericco;agencia;https://numericco.com/;Zaragoza/Madrid;preparado;2026-08-21;;;formulario no carga, usar correo publico hola@numericco.com
+Numericco;agencia;https://numericco.com/;Zaragoza/Madrid;contactado;2026-08-21;2026-08-21;;formulario no carga, contactado por correo publico hola@numericco.com
 Soy.es;agencia;https://soy.es/;Cordoba;contactado;2026-08-21;2026-08-21;;sin formulario localizado, correo publico info@soy.es
 Lyra;agencia;https://lyra.digital/;Madrid;contactado;2026-08-21;2026-08-21;;sin formulario localizado, correo publico hi@lyra.digital
 Moddo;agencia;https://moddo.com/;Madrid;contactado;2026-08-21;2026-08-21;;formulario https://moddo.com/contacto/
