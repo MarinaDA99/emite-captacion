@@ -4,7 +4,7 @@ Mira la tienda **oficial** cada cierto rato y avisa cuando salen plazas que
 cumplen tus condiciones. Solo mira y avisa: **no compra, no reserva y no crea
 cuentas**. La compra la haces tú.
 
-Configurado de fábrica para: **18 y 19 de septiembre de 2026, 3 entradas, hasta
+Configurado de fábrica para: **19 y 20 de septiembre de 2026, 3 entradas, hasta
 35 € cada una.**
 
 ## Antes de nada: qué es oficial y qué no
@@ -39,7 +39,7 @@ playwright install chromium
 python3 vigilante.py --calibrar
 ```
 
-Se abre un navegador de verdad. Acepta cookies, elige el 18 de septiembre y 3
+Se abre un navegador de verdad. Acepta cookies, elige el 19 de septiembre y 3
 entradas, y avanza hasta ver las horas (o el cartel de agotado). Vuelve al
 terminal y pulsa Intro.
 
@@ -147,7 +147,8 @@ Mientras tanto:
   general está agotada. Entra dentro de tu tope.
 - **Torres (36 €).** Se salen de los 35 € por 1 €. Si te vale, sube
   `precio_max` a 40.
-- **Misa internacional, gratis.** Domingos a las 9:00, entrada libre hasta
-  completar aforo, sin reserva: se hace cola desde las 8:00. Tus fechas son
-  viernes y sábado, pero el **domingo 20** cae justo después. No se puede pasear
-  por el templo ni hacer fotos.
+- **Misa internacional, gratis.** El **domingo 20 es una de tus fechas**, y ese
+  día hay misa a las 9:00 con entrada libre hasta completar aforo, sin reserva:
+  se hace cola desde las 8:00 (la puerta abre a las 8:30). Para tres personas
+  sale gratis. A cambio: no se pasea por el templo ni se hacen fotos, y se sale
+  sobre las 10:00.

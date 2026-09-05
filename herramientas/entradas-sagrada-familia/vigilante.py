@@ -45,7 +45,7 @@ TIENDA = "https://tickets.sagradafamilia.org/es/1-individual"
 INTERVALO_MINIMO_S = 300
 
 POR_DEFECTO = {
-    "fechas": ["2026-09-18", "2026-09-19"],
+    "fechas": ["2026-09-19", "2026-09-20"],
     "entradas": 3,
     "precio_max": 35.0,
     "url_tienda": TIENDA,
