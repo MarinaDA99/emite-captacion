@@ -68,6 +68,9 @@ encuentra algo nuevo que encaja:
 - línea en `hallazgos.log`,
 - y, si lo configuras, aviso al móvil y correo.
 
+Si en alguna consulta no supiera leer la web, deja la respuesta en
+`ultima-respuesta.json` para poder ajustarlo (no pisa `calibracion.json`).
+
 Solo avisa **una vez por oferta**: lo ya visto queda en `estado.json`.
 
 ## Ajustes · `config.json`

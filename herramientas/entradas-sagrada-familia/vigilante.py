@@ -34,6 +34,7 @@ CONFIG = AQUI / "config.json"
 ESTADO = AQUI / "estado.json"
 REGISTRO = AQUI / "hallazgos.log"
 CALIBRACION = AQUI / "calibracion.json"
+ULTIMA = AQUI / "ultima-respuesta.json"
 
 MADRID = ZoneInfo("Europe/Madrid")
 
@@ -265,8 +266,10 @@ def leer_pagina(page, url: str) -> tuple[list[dict], str]:
         recorrer_json(item["cuerpo"], ofertas)
     ofertas = deduplicar(ofertas)
 
-    if CALIBRACION.exists() or not ofertas:
-        CALIBRACION.write_text(
+    if not ofertas:
+        # No hemos sabido leer nada: guardamos la respuesta para poder ajustar el
+        # lector. En fichero aparte, para no pisar lo que grabó --calibrar.
+        ULTIMA.write_text(
             json.dumps(capturado, indent=2, ensure_ascii=False)[:2_000_000],
             encoding="utf-8",
         )
