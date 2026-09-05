@@ -1,0 +1,9 @@
+# Config real: puede llevar la clave del correo. Nunca al repositorio.
+config.json
+
+# Ficheros de trabajo
+estado.json
+hallazgos.log
+calibracion.json
+calibracion.png
+__pycache__/

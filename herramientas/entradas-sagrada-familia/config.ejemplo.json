@@ -1,0 +1,20 @@
+{
+  "fechas": ["2026-09-18", "2026-09-19"],
+  "entradas": 3,
+  "precio_max": 35.0,
+
+  "url_tienda": "https://tickets.sagradafamilia.org/es/1-individual",
+
+  "intervalo_min_s": 900,
+  "intervalo_max_s": 1500,
+  "horas_activas": [7, 23],
+
+  "ntfy_topic": "",
+
+  "email_a": "",
+  "email_de": "",
+  "smtp_host": "",
+  "smtp_puerto": 587,
+  "smtp_usuario": "",
+  "smtp_clave": ""
+}
