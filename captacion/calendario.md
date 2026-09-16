@@ -1,5 +1,10 @@
 # Qué hacer cada día mientras esperas la aprobación
 
+> La app se aprobó el 16 de septiembre de 2026. Este calendario queda como
+> referencia de lo que se hizo durante la espera; el apartado final, «Y cuando
+> llegue la aprobación», sigue vigente y está desarrollado en
+> `plan-lanzamiento.md`.
+
 Entre 30 y 45 minutos al día. No más: esto es una carrera de fondo y la revisión
 puede tardar semanas.
 

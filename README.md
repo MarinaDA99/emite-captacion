@@ -18,6 +18,8 @@ proyecto y el sistema de captación de clientes.
 
 - `factura-espana-brief.md` — por qué existe la app, qué entra en la v1 y qué no,
   y las decisiones de diseño que no conviene revertir.
+- `plan-lanzamiento.md` — qué hacer las primeras semanas tras la aprobación
+  (septiembre y octubre de 2026).
 - `plan-hasta-verifactu.md` — plan de desarrollo hasta marzo de 2027.
 - `ficha-app-store.md` y `formulario-envio.md` — textos de la ficha.
 - `despliegue-fly.md` y `comandos.md` — infraestructura y comandos.
